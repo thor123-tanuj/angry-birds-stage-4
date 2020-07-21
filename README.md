@@ -1,2 +1,2 @@
-# angry-birds-stage-4
-angry birds game slingshot created from vs code studio
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
